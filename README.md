@@ -2,4 +2,6 @@
 ## Portfolio
 ### Céleste dSD
 * html
-*css
+* css
+ ** Bootstrap
+ ** Javascript
