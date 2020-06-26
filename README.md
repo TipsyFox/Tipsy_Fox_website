@@ -3,5 +3,5 @@
 ### Céleste dSD
 * html
 * css
-** Bootstrap
-** Javascript
+(Bootstrap)
+
