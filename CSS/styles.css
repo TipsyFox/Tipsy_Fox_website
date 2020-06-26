@@ -1,1 +1,56 @@
+body {
+background-color: #e0e0e0;
+ 
+}
+.content-img{
+  width: 100%;
+  height: auto;
+}
+header{ 
+  height: 90vh;
+  background: url(https://scontent.fcdg2-1.fna.fbcdn.net/v/t31.0-8/11927476_1905602356332454_7270350164036894248_o.jpg?_nc_cat=105&_nc_sid=19026a&_nc_oc=AQnIJGUYqDISdVo0bl0pVrd3_-7TuWOKNUGMvhLWGQnRXJUzwX4wps9vVsL1X8_g1ok&_nc_ht=scontent.fcdg2-1.fna&oh=7b8a7e500d86b4731e02180bcf5b97a7&oe=5F1ADF42) center #e0e0e0;
+background-size: cover;
+}
+
+h1 {
+  color: 	#253037;
+  padding: 10px;
+  border: 0.15em solid white;
+  border-radius: 10px;
+  background-color: rgba(255,255,255,.1);
+}
+
+.soustitre{
+  color: #253037;
+}
+
+
+
+nav {
+  top:0;
+ z-index:  1;
+}
+span {
+  color: white;
+}
+
+.btn--menu {
+  background-color: #557076;
+  color: white;
+}
+
+.btn--contact {
+  background-color: #754373;
+}
+
+.taille {
+  height: 300px;
+  object-fit: cover;
+}
+
+.box {
+  min-height: 150px;
+ 
+}
+
 
